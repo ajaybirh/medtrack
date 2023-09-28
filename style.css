@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.medication {
+    margin: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+#status {
+    margin: 20px;
+    font-weight: bold;
+}
